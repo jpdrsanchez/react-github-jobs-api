@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+# Stack used in this challenge
+
+- ReactJS ⚛
+- Styled Components 💅
+- React Router Dom 🗺
+- Vercel 💻
+
+## Frontend Mentor - GitHub Jobs API
+
+![Design preview for the GitHub Jobs API coding challenge](./preview.jpg)
+
+## Welcome! 👋
+
+Thanks for purchasing this premium Frontend Mentor coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow. These premium challenges are perfect portfolio pieces, so please do feel free to use what you build in your portfolio to show others.
+
+**To do this challenge, you need a solid understanding of HTML, CSS, and JavaScript.**
+
+## The challenge
+
+Your challenge is to build out this jobs board using the [GitHub Jobs API](https://jobs.github.com/api) data and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements throughout the site
+- View all jobs currently live on the GitHub Jobs API
+- Be able to click a job from the index page so that they can read more information and apply for the job
+- **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
